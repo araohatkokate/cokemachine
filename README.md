@@ -1,1 +1,1 @@
-# cokemachine
+An application to display working of a cokemachine. User can choose from existing machines or add a new machine along with its name. The machine is capable of displaying the price of the coke, remaining change and the inventory level. 
